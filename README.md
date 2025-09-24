@@ -16,8 +16,7 @@ Calculate a student's average grade.
 Display all grades in a clear format.
 
 Requirements
-
-Python 3.x (no external libraries needed).
+Python 3.13(no external libraries needed).
 
 Example Usage
 Run the program to see this menu:
